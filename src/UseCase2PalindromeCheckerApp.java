@@ -15,7 +15,7 @@ public class UseCase2PalindromeCheckerApp {
             System.out.println("Is it a Palindrome:"+t);
         }
         else{
-            System.out.println("Note a Palindrome");
+            System.out.println("Not a Palindrome");
         }
 
     }
