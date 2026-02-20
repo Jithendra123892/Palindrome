@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public class UseCase4PalindromeCheckerApp {
+    public static void main(String[] args){
+
+    }
 }
